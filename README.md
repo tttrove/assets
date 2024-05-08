@@ -1,2 +1,2 @@
-# images
-Image prepared for Markdown
+# assets
+assets prepared for my blog
