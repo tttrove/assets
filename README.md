@@ -1,2 +1,2 @@
-# assets
-assets prepared for my blog
+# Assets
+Assets prepared for my blog
